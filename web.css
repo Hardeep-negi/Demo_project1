@@ -1,0 +1,120 @@
+*{
+margin: 0px;
+padding: 0px;
+} 
+ 
+ body{
+    background-color:yellow;
+ }
+ p{
+        font-family:Supermercado One;
+        margin-bottom:0;
+        margin-top:0;
+    }
+    .tit{
+        font-size:20px;
+        font-weight:bold;
+        /* width:250px; */
+        line-height:20px;
+        margin-bottom:10px;
+    }
+    .view{
+        font-size:14px;
+        color:rgb(96,96,96);
+        margin-bottom:20px;
+
+    }
+    .yt-name{
+        font-size:15px;
+        color:rgb(96,96,96);
+        margin-bottom:20px;
+    }
+    .des{
+        font-size:15px;
+        color:rgb(96,96,96);
+        width:400px;
+        line-height:25px;
+        margin-bottom:20px;   
+    }
+    .apple{
+        font-size:15px;
+        background-color:rgb(227,65,64);
+        color:white;
+        text-align:center;
+        padding-left:20px;
+        padding-right:20px;
+        padding-top:15px;
+        padding-bottom:15px;
+
+    }
+    .shop{
+        cursor:pointer;
+        transition:text-decoration 0.20s;
+    }
+    .shop:hover{
+        text-decoration:underline;
+    }
+    .tahoma{
+        font-family:'Tahoma';
+        font-weight:bold;
+        font-size:20px;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+   .sale{
+    font-family:Arial;
+    font-weight:bold;
+    font-size:20px;
+    
+   }
+   .deadline{
+    font-style:italic;
+    color:red;
+    line-height:20px;
+   }
+   .course{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bold;
+    margin-top:20px;
+   }
+   .noob{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(96,96,96);
+    line-height:30px;
+    font-size:14px;   
+       }
+   .para{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width:300px;
+    margin-top:15px;
+    margin-bottom:10px;
+   }
+   .rdy{
+    background-color:rgb(7, 122, 7);
+    border:none;
+    border-radius:3px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:15px;
+    padding-right:15px;
+    color:white;
+   }
+   .busi{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size:30px;
+    text-align:center;
+   }
+   .help{
+    font-weight:normal;
+    display:block;
+    font-size:15px;
+    margin-top:20px;
+   }
+   .learn{
+    font-weight:normal;
+    display:block;
+    margin-top:15px;
+    font-size:15px;
+    color:rgb(39, 76, 226);
+   }
